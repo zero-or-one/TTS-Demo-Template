@@ -1,3 +1,0 @@
-models/base filter=lfs diff=lfs merge=lfs -text
-models/ksponspeech_ft filter=lfs diff=lfs merge=lfs -text
-models/kss_ft filter=lfs diff=lfs merge=lfs -text
